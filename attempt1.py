@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import xgboost as xgb
 
 # Set page config for better appearance
 st.set_page_config(
