@@ -9,6 +9,7 @@ st.set_page_config(
 )
 
 # Enhanced Professional UI CSS
+# https://github.com/streamlit/streamlit/issues/5000
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
